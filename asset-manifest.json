@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VijenSingh/imageGallery/static/css/main.56bf52ec.css",
+    "main.js": "/VijenSingh/imageGallery/static/js/main.7c9201c2.js",
+    "index.html": "/VijenSingh/imageGallery/index.html",
+    "main.56bf52ec.css.map": "/VijenSingh/imageGallery/static/css/main.56bf52ec.css.map",
+    "main.7c9201c2.js.map": "/VijenSingh/imageGallery/static/js/main.7c9201c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bf52ec.css",
+    "static/js/main.7c9201c2.js"
+  ]
+}
